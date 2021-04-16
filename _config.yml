@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+title: [www.ponstick.com]
+description: [ponstick]
+show_downloads: ["false"] 
+# true or false
+#google_analytics: []
