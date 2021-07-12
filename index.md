@@ -32,8 +32,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ponstick/ponstick.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ `爱快`  <a href="https://koolshare.cn/thread-170674-1-1.html" target="_blank">抛弃光猫esxi+光卡+gpon stick模块上网</a>
+<br/>
+
+
