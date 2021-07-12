@@ -61,4 +61,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 <br/>
 
 ### 硬件适配
-【腾讯文档】[xPon Stick兼容性列表(协作)]（https://docs.qq.com/sheet/DWEx1S2Rva0N2VERU）
+腾讯文档[xPon Stick兼容性列表协作](https://docs.qq.com/sheet/DWEx1S2Rva0N2VERU)
