@@ -30,11 +30,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 教程
 
-
-
- `爱快`  <a href="https://koolshare.cn/thread-170674-1-1.html" target="_blank">抛弃光猫esxi+光卡+gpon stick模块上网</a>
+`爱快`<a href="https://koolshare.cn/thread-170674-1-1.html" target="_blank">抛弃光猫esxi+光卡+gpon stick模块上网</a><img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+Cgk8cGF0aCBmaWxsPSIjZmZmIiBzdHJva2U9IiMzNmMiIGQ9Ik0xLjUgNC41MThoNS45ODJWMTAuNUgxLjV6Ii8+Cgk8cGF0aCBmaWxsPSIjMzZjIiBkPSJNNS43NjUgMUgxMXY1LjM5TDkuNDI3IDcuOTM3bC0xLjMxLTEuMzFMNS4zOTMgOS4zNWwtMi42OS0yLjY4OCAyLjgxLTIuODA4TDQuMiAyLjU0NHoiLz4KCTxwYXRoIGZpbGw9IiNmZmYiIGQ9Im05Ljk5NSAyLjAwNC4wMjIgNC44ODVMOC4yIDUuMDcgNS4zMiA3Ljk1IDQuMDkgNi43MjNsMi44ODItMi44OC0xLjg1LTEuODUyeiIvPgo8L3N2Zz4K" />
+<br/>
+`UBNT`<a href="https://www.chiphell.com/thread-2184048-1-1.html" target="_blank">ubnt ER-4添加PON stick模块替换光猫实战</a><img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+Cgk8cGF0aCBmaWxsPSIjZmZmIiBzdHJva2U9IiMzNmMiIGQ9Ik0xLjUgNC41MThoNS45ODJWMTAuNUgxLjV6Ii8+Cgk8cGF0aCBmaWxsPSIjMzZjIiBkPSJNNS43NjUgMUgxMXY1LjM5TDkuNDI3IDcuOTM3bC0xLjMxLTEuMzFMNS4zOTMgOS4zNWwtMi42OS0yLjY4OCAyLjgxLTIuODA4TDQuMiAyLjU0NHoiLz4KCTxwYXRoIGZpbGw9IiNmZmYiIGQ9Im05Ljk5NSAyLjAwNC4wMjIgNC44ODVMOC4yIDUuMDcgNS4zMiA3Ljk1IDQuMDkgNi43MjNsMi44ODItMi44OC0xLjg1LTEuODUyeiIvPgo8L3N2Zz4K" />
+<br/>
+`MikroTik`<a href="https://www.v2ex.com/t/702390" target="_blank">Pon Stick 取代光猫的 Hyper 软路由解决方案</a><img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+Cgk8cGF0aCBmaWxsPSIjZmZmIiBzdHJva2U9IiMzNmMiIGQ9Ik0xLjUgNC41MThoNS45ODJWMTAuNUgxLjV6Ii8+Cgk8cGF0aCBmaWxsPSIjMzZjIiBkPSJNNS43NjUgMUgxMXY1LjM5TDkuNDI3IDcuOTM3bC0xLjMxLTEuMzFMNS4zOTMgOS4zNWwtMi42OS0yLjY4OCAyLjgxLTIuODA4TDQuMiAyLjU0NHoiLz4KCTxwYXRoIGZpbGw9IiNmZmYiIGQ9Im05Ljk5NSAyLjAwNC4wMjIgNC44ODVMOC4yIDUuMDcgNS4zMiA3Ljk1IDQuMDkgNi43MjNsMi44ODItMi44OC0xLjg1LTEuODUyeiIvPgo8L3N2Zz4K" />
 <br/>
 
 
