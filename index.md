@@ -19,7 +19,10 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+输入命令flash get GPON_SN并回车查看当前设备序列号，
+然后我们通过flash set GPON_SN 原光猫SN 设置新的序列号。
+输入命令flash get ELAN_MAC_ADDR查看设备当前主MAC，然后我们通过flash set ELAN_MAC_ADDR 原光猫主MAC 设置新的MAC地址。
+完成配置后请通过“系统管理”“提交/重启”保存设置并重启PON Stick
 1. Numbered
 2. List
 
